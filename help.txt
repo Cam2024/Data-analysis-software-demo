@@ -1,0 +1,32 @@
+Loading a Dataset:
+1. Loading a file can be done by clicking on File menu -> Load Dataset
+2. Alternatively, by clicking on the page symbol in the toolbar at the top of the app.
+
+The form of dataset:
+1. The app currently is designed to work with datasets saved in txt file, where the data is listed in two columns.
+2. The first column is the x coordinate of the data point while the second is the y- coordinate of the datapoints.
+3. The x and y coordinates can be either separated by a tap or a comma.
+
+Plotting a dataset (Multiple Datasets):
+1. Right-click on the dataset window -> Plot -> XY Plot.
+2. Click Plot option in the menu -> Plot Dataset -> Select the datasets -> right-click on the window -> XY Plot.
+3. Click on Analyze menu -> Show All Datasets -> Select the datasets -> right-click on the window -> XY Plot.
+
+Plotting a histogram:
+1. Right-click on the dataset window -> Plot -> Plot Histogram.
+2. Click Plot option in the menu -> Plot Dataset -> Select the dataset -> right-click on the window -> Plot Histogram.
+3. Click on Analyze menu -> Show All Datasets -> Select the dataset -> right-click on the window -> Plot Histogram.
+
+Input Function to Plotting:
+1. Click on Analyze menu -> Function -> Input a Function to Plot.
+2. See the Function window for input rules.
+
+Graphics Window:
+1. X-Y Plot, select the curve you want to change -> click on the blank area -> click on the color to set the line color, click on the style to select the curve style, slide the slider to adjust the curve width.
+2. Histogram Plot, click on the color to set the histogram color, slide the slider to adjust the histogram width.
+
+View All Datasets:
+1. Click on Analyze menu -> Show All Datasets.
+2. When the dataset is updated, right-click on the window -> Refresh Datasets.
+3. When you want to remove a dataset from the list, Select a dataset -> right-click on the window -> Delete Dataset.
+4. When you want to save a particular dataset from a list, Select a dataset -> right-click on the window -> Save Dataset.
